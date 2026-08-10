@@ -1,0 +1,14 @@
+{
+    "name": "SilentEdit",
+    "description": "Silently edits a message to bypass vencord message loggers.",
+    "authors": [
+        {
+            "name": "snipermaster226",
+            "id": "798441657895878696"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_edit_24px"
+    }
+}
